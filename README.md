@@ -22,7 +22,7 @@
 **`Student of Analysis and Development of Systems`**
 
 Hello! My name is Gabriel Henrique, I am 24 years old and I am starting my career in the area of technology, currently studying Systems Analysis and Development.
-From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area.
+From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area. 👋🏿
 
 ### 🤖 Languages & Technologies
 
