@@ -22,12 +22,7 @@
 
 Hello! My name is Gabriel Henrique, I am 24 years old and I am starting my career in the area of technology, currently studying Systems Analysis and Development.
 From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area.
-<img 
-    align="right" 
-    width="100%"  
-    src="Downloads/WhatsApp_Image_2025-09-03_at_20.07.15-removebg-preview.png"" 
-/>
-
+<img scr="Imagens/icon.jpeg" alt="">
 ##
 
 - Pronouns: he/him 🐈‍⬛
