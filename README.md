@@ -24,6 +24,8 @@
 
 Hello! My name is Gabriel Henrique, I am 24 years old and I am starting my career in the area of technology, currently studying Systems Analysis and Development.
 From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area.
+
+<img src="WhatsApp Image 2025-09-03 at 20.07.15" />
 ##
 
 - Pronouns: he/him 🐈‍⬛
@@ -67,3 +69,4 @@ From an early age I am passionate about technology and, in my free time, I enjoy
 <div> 
   <a href="mailto:ghdsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/gabriel-henrique-319698207/?trk=opento_sprofile_details" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
