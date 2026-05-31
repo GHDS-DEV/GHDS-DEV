@@ -20,12 +20,10 @@
 
 **`Student of Analysis and Development of Systems`**
 
-Hello! My name is Gabriel Henrique, I am 24 years old and I am starting my career in the area of technology, currently studying Systems Analysis and Development.
-From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area. 👻
+Systems Analysis and Development student with hands-on experience in administrative support and customer service. Skilled in document management, quality control, client relations, and system operations. Previous roles include Office Assistant, Customer Partner, and Administrative Digitization Assistant.Currently seeking an internship, trainee, or junior position in technology to apply academic knowledge, expand professional expertise, and contribute proactively to delivering effective solutions within a team.. 👻
 <img scr="Imagens/icon.jpeg" alt="">
 ##
 
-- Pronouns: he/him 🐈‍⬛
 - I am working on small projects for study 🧑🏿‍💻
 - Currently my level of English and beginner, but I am practicing.😉
 
