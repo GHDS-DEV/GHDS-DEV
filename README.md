@@ -20,12 +20,10 @@
 
 **`Student of Analysis and Development of Systems`**
 
-Hello! My name is Gabriel Henrique, I am 24 years old and I am starting my career in the area of technology, currently studying Systems Analysis and Development.
-From an early age I am passionate about technology and, in my free time, I enjoy playing video games. I am always looking to learn more and develop my skills to grow professionally in the area. 👻
+Systems Analysis and Development student with hands-on experience in administrative support and customer service. Skilled in document management, quality control, client relations, and system operations. Previous roles include Office Assistant, Customer Partner, and Administrative Digitization Assistant.Currently seeking an internship, trainee, or junior position in technology to apply academic knowledge, expand professional expertise, and contribute proactively to delivering effective solutions within a team.. 👻
 <img scr="Imagens/icon.jpeg" alt="">
 ##
 
-- Pronouns: he/him 🐈‍⬛
 - I am working on small projects for study 🧑🏿‍💻
 - Currently my level of English and beginner, but I am practicing.😉
 
@@ -40,23 +38,6 @@ From an early age I am passionate about technology and, in my free time, I enjoy
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
 <br/>
 
 ##
@@ -68,22 +49,3 @@ From an early age I am passionate about technology and, in my free time, I enjoy
 </div>
 
 
-- uses: Platane/GHDS-DEV
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ GHDS-DEV }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
